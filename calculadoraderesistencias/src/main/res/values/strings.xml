@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculadora de resistencias</string>
+    <string name="banda1">Banda 1</string>
+    <string name="banda2">Banda 2</string>
+    <string name="Multiplicad">Multiplicador</string>
+    <string name="tolerancia">Tolerancia</string>
+    <string name="calcular">Calcular</string>
+    <string name="valorResistencia">Valor resistencia:</string>
+    <string name="valorTolerancia">Valor tolerancia:</string>
+
+
+    <string-array name="coloresmultiplicador">
+        <item name="negro">Negro</item>
+        <item name="marrón">Marrón</item>
+        <item name="rojo">Rojo</item>
+        <item name="naranja">Naranja</item>
+        <item name="amarillo">Amarillo</item>
+        <item name="verde">Verde</item>
+        <item name="azul">Azul</item>
+        <item name="dorado">Dorado</item>
+        <item name="plateado">Plateado</item>
+    </string-array>
+
+    <string-array name="coloresbandaIandII">
+        <item name="negro">Negro</item>
+        <item name="marrón">Marrón</item>
+        <item name="rojo">Rojo</item>
+        <item name="naranja">Naranja</item>
+        <item name="amarillo">Amarillo</item>
+        <item name="verde">Verde</item>
+        <item name="azul">Azul</item>
+        <item name="purpura">Purpura</item>
+        <item name="gris">Gris</item>
+        <item name="blanco">Blanco</item>
+    </string-array>
+
+    <string-array name="colorestolerancia">
+        <item name="marron">Marrón</item>
+        <item name="rojo">Rojo</item>
+        <item name="dorado">Dorado</item>
+        <item name="plateado">Plateado</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Formulario De Registro</string>
+    <string name="formulario">Formulario de registro</string>
+    <string name="userName">Username: </string>
+    <string name="passw1">Password: </string>
+    <string name="passw2">Check password: </string>
+    <string name="correo">Email: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="fechaNaci">Date of birth:  </string>
+    <string name="mosFechaNaci">dd/mm/yy</string>
+    <string name="lugarNaci">City of birth: </string>
+    <string name="read">Read</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="swim">Swim</string>
+    <string name="sleep">Sleep</string>
+    <string name="sing">Sing</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="sex">Sex: </string>
+
+    <string-array name="cityOfColombia">
+        <item>Medellín</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Pereira</item>
+        <item>Caldas</item>
+        <item>Barranquilla</item>
+        <item>Santa Marta</item>
+        <item>Cartagena</item>
+        <item>Cúcuta</item>
+        <item>Montería</item>
+        <item>Armenia</item>
+        <item>Pasto</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculadoraPerimetroAreaVolumen</string>
+    <string name="titulo">Calculador de perímetro, área o volumen</string>
+    <string name="seleFigura">Seleccione la  figura geométrica</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="lado1">Lado 1</string>
+    <string name="lado2">Lado 2</string>
+    <string name="altura">Altura</string>
+    <string name="radio">Radio</string>
+    <string name="cateto1">Cateto 1</string>
+    <string name="cateto2">Cateto 2</string>
+    <string name="hipotenusa">Hipotenusa</string>
+    <string name="calcular">Calcular</string>
+    <string name="perimetro">Perímetro</string>
+    <string name="area">Área</string>
+    <string name="volumen">Volumen</string>
+    <string name="wValores">Ingrese todos los valores.</string>
+    <string name="figuras">Perímetro,Área y Volumen</string>
+</resources>

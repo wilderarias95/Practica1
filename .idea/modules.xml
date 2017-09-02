@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraPerimetroAreaVolumen.iml" filepath="$PROJECT_DIR$/CalculadoraPerimetroAreaVolumen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraderesistencias/calculadoraderesistencias.iml" filepath="$PROJECT_DIR$/calculadoraderesistencias/calculadoraderesistencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formularioderegistro/formularioderegistro.iml" filepath="$PROJECT_DIR$/formularioderegistro/formularioderegistro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfazdecolores/interfazdecolores.iml" filepath="$PROJECT_DIR$/interfazdecolores/interfazdecolores.iml" />
+    </modules>
+  </component>
+</project>
